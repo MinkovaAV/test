@@ -3,6 +3,8 @@ git branch branch_name - создать ветку
 git checkout -b branch_name - создать ветку и сразу переключиться на нее
 
 (где branch_name - название новой ветки)
+
+
 **Какую команду нужно использовать чтобы переключиться на ветку master/на ветку branch-400 в Git?**  
 git checkout master
 git checkout branch-400

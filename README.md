@@ -6,7 +6,7 @@ git checkout -b branch_name - создать ветку и сразу перек
 
 
 **Какую команду нужно использовать чтобы переключиться на ветку master/на ветку branch-400 в Git?**  
-git checkout master
+git checkout master  
 git checkout branch-400
 
 
